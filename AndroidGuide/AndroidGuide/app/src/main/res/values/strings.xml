@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidGuide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_terminology">Terminology</string>
+
+    <string-array name="terms_array">
+        <item>adb</item>
+        <item>emulator</item>
+        <item>android</item>
+        <item>screenshot2</item>
+        <item>pm</item>
+        <item>lint</item>
+        <item>project</item>
+        <item>panel</item>
+        <item>Toolbar</item>
+        <item>Preview pane</item>
+        <item>Android pane</item>
+        <item>Project Explorer</item>
+        <item>idea folder</item>
+        <item>Intellesense</item>
+        <item>Module</item>
+        <item>Live layout</item>
+        <item>Init</item>
+        <item>commit</item>
+        <item>Push</item>
+        <item>Add</item>
+        <item>Pull</item>
+        <item>Branch</item>
+        <item>Clone</item>
+    </string-array>
+
+    <string name="title_activity_website">Android Tutorials</string>
+
+    <string-array name="webs_array">
+
+        <item> http://www.mkyong.com/tutorials/android-tutorial/</item>
+        <item> http://www.javatpoint.com/android-tutorial</item>
+        <item>https://developer.android.com/training/index.html</item>
+        <item>http://www.lynda.com/Android-training-tutorials/947-0.html</item>
+        <item>http://www.vogella.com/tutorials/Android/article.html</item>
+        <item>http://manualesytutoriales.com/manual-de-programacion-en-android/</item>
+        <item>http://www.objc.io/issue-11/android_101_for_ios_developers.html</item>
+        <item>http://www.i-programmer.info/programming/android.html</item>
+        <item>http://androidtutorialforbeginners.com/</item>
+        <item>http://www.androidsis.com/category/tutoriales-guias/</item>
+        <item>http://www.coreservlets.com/android-tutorial/</item>
+        <item> http://androideity.com/category/programacion/</item>
+
+    </string-array>
+
+    <string-array name="def_array">
+        <item>use to connect the client(AVD) with the server and viceversa.</item>
+        <item>controls aspects and characteristics of the emulator.</item>
+        <item>Use to list android AVDs and manage updates for the SDK.</item>
+        <item>Take a screenshot of the screen in the emulator.</item>
+        <item>use to manage packages inside the AVD.</item>
+        <item>creates a check performance of the project in a html file.</item>
+        <item>Project is a set of folder and files which containt all the information about your application and functionality as well.</item>
+        <item>Panels are different sections in android studio where each section has a different fucntionality for your app.</item>
+        <item>is a section where are many functionalities of android studio, they are kind of considered as shorcuts.</item>
+        <item>Is where you can see the preview layour on how your layout will look on your app.</item>
+        <item>Is where you can can see many of the different views.</item>
+        <item>Is where you see your projects and its folders and files.</item>
+        <item>Stores metadata and is a gradle that helps communicate with the OS, other platforms and libraries.</item>
+        <item>Provides elements and attributtes,and default values for layouts. </item>
+        <item>A project is composed by modules that define it and brings these modules together and tied them into a greater whole.</item>
+        <item>Allows you to preview the user interface from your application without running it on the emulator.</item>
+        <item>Init is for creating repositories</item>
+        <item>commit is used to record all the changes you made to your files.</item>
+        <item>push is to update files from your repositories after making a commit.</item>
+        <item>Add is for adding any changed files for the next commit.</item>
+        <item>Pull is for fetching changes from the specified branch and merge into to the current one.</item>
+        <item>Branch is used for managing branches (create, list, delete).</item>
+        <item>Clone copies a repository from one directory to another directory.</item>
+
+    </string-array>
+
+
+
+</resources>
